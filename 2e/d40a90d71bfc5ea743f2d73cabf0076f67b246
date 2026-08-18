@@ -1,0 +1,27 @@
+packages/blitz-dom/.cargo-ok
+  s_2bd35471d4873d::t_13975d0de966bc 1
+packages/blitz-dom/Cargo.toml
+  s_2bd35471d4873d::t_bea25f8bcc1b13 1-11,13-14,16-22,24,26-30,33-39,46,49-52,55-200,202-204
+packages/blitz-dom/Cargo.lock
+  s_2bd35471d4873d::t_f4bc1d1499102f 1-2367
+packages/blitz-dom/Cargo.toml.orig
+  s_2bd35471d4873d::t_44e97a611453c1 1-99
+packages/blitz-dom/.cargo_vcs_info.json
+  s_2bd35471d4873d::t_233a22163ffa85 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2ed40a90d71bfc5ea743f2d73cabf0076f67b246",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
