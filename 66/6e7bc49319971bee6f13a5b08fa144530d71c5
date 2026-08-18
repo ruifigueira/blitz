@@ -1,0 +1,21 @@
+packages/blitz-dom/Cargo.toml
+  s_2bd35471d4873d::t_efbba7ce710bb5 83-85
+packages/blitz-dom/src/net.rs
+  s_2bd35471d4873d::t_9af2f105604956 194-218,221-222,347-350
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "666e7bc49319971bee6f13a5b08fa144530d71c5",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
