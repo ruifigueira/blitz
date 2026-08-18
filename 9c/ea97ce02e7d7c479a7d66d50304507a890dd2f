@@ -1,0 +1,19 @@
+packages/blitz-dom/src/stylo_to_parley.rs
+  s_2bd35471d4873d::t_4c9a58c602936e 285-289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9cea97ce02e7d7c479a7d66d50304507a890dd2f",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
