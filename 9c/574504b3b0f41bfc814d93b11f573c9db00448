@@ -1,0 +1,23 @@
+packages/blitz-dom/src/document.rs
+  s_2bd35471d4873d::t_f0fbba756a79cf 1151-1153,1244-1245
+packages/blitz-dom/src/mutator.rs
+  s_2bd35471d4873d::t_571855aa730e7c 1025-1028,1041
+packages/blitz-dom/src/net.rs
+  s_2bd35471d4873d::t_cadfa4109453c7 150-181,208-215,218,220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9c574504b3b0f41bfc814d93b11f573c9db00448",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
