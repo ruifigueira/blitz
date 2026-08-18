@@ -1,0 +1,19 @@
+packages/blitz-dom/src/resolve.rs
+  s_2bd35471d4873d::t_461fd63eb1865d 23,232-293,295-300,314-326,337,363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0af39959dc49c03907a0e59e4a481f119ea676c6",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
