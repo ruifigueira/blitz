@@ -1,0 +1,19 @@
+packages/blitz-dom/src/node/element.rs
+  s_2bd35471d4873d::t_59062d5644f35a 260-269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9a83f2e1060c14c7bd58edcf4b8513f513f893e1",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
