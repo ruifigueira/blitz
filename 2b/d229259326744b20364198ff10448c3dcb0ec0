@@ -1,0 +1,27 @@
+packages/blitz-dom/src/document.rs
+  s_2bd35471d4873d::t_5f36001f21f544 1901-1908,1926-1933,1969-1980,3551-3559
+packages/blitz-dom/src/mutator.rs
+  s_2bd35471d4873d::t_8c210cfbf900fc 277,281-288,290-294,349-352,456,495-498
+packages/blitz-dom/src/node/element.rs
+  s_2bd35471d4873d::t_b5ea04e4b4b641 42-45,158-163,172-177,181
+packages/blitz-dom/src/node/mod.rs
+  s_2bd35471d4873d::t_bc5ac36799e893 21
+packages/blitz-dom/src/stylo.rs
+  s_2bd35471d4873d::t_1c75131727d8ad 854-860,982-986
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2bd229259326744b20364198ff10448c3dcb0ec0",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
