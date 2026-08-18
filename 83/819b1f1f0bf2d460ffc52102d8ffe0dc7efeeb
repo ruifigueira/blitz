@@ -1,0 +1,21 @@
+packages/blitz-dom/src/layout/damage.rs
+  s_2bd35471d4873d::t_01fc774fe5c076 88-98,104
+tests/blitz-tests/tests/incremental_table_damage.rs
+  s_2bd35471d4873d::t_4fd6910af6c238 1-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "83819b1f1f0bf2d460ffc52102d8ffe0dc7efeeb",
+  "prompts": {},
+  "sessions": {
+    "s_2bd35471d4873d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb0300e7ffeI4RQ5SiWsqc0Mw",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
