@@ -1,0 +1,19 @@
+packages/blitz-dom/src/stylo_to_kurbo.rs
+  s_b94a861549b344::t_93d463f42f6c60 59-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "658bedf09aa3f2c89b84530c5505be9184fb237d",
+  "prompts": {},
+  "sessions": {
+    "s_b94a861549b344": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe8c1db7cffeW6q5yoxbw4OR7K",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Rui Figueira <rfigueira@cloudflare.com>"
+    }
+  }
+}
